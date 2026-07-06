@@ -1,3 +1,4 @@
+https://substack.com/home/post/p-201622398
 # 🌸 Project CodeFlower & Beanstalk (CFJB)
 > **Subtitle**: An Ecological System-Based Architectural Guardrail for LLM Hallucination Mitigation
 > **Author**: Normal Scientist (A Self-Taught Independent Scientist) 🔬
